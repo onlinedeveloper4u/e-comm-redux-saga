@@ -1,0 +1,76 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Samsung M 40",
+            "color": "black",
+            "price": 15000,
+            "category": "Mobile",
+            "brand": "Samsung",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Samsung F20",
+            "color": "white",
+            "price": 50000,
+            "category": "Mobile",
+            "brand": "Samsung",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 3,
+            "name": "T-shirt",
+            "color": "red",
+            "price": 5000,
+            "category": "cloths",
+            "brand": "Nike",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sports Shoes",
+            "color": "red and black",
+            "price": 8000,
+            "category": "rebook",
+            "brand": "Nike",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 5,
+            "name": "530 laptop",
+            "color": "white",
+            "price": 88000,
+            "category": "laptop",
+            "brand": "HP",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 6,
+            "name": "earphone - 10",
+            "color": "green",
+            "price": 800,
+            "category": "earphone",
+            "brand": "mivi",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 7,
+            "name": "black shirt",
+            "color": "black",
+            "price": 1800,
+            "category": "cloths",
+            "brand": "tommy",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        },
+        {
+            "id": 8,
+            "name": "green shirt",
+            "color": "green",
+            "price": 1900,
+            "category": "cloths",
+            "brand": "tommy",
+            "photo": "https://www.business2community.com/wp-content/uploads/2014/01/product-coming-soon.jpg"
+        }
+    ]
+}
